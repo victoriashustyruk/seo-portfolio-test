@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/vbbb.jpg");
+  background-image: url("background.jpg");
   background-position: 50% 50%;
   min-height: 747px;
 }
@@ -45,7 +45,7 @@
 .u-section-1 .u-image-1 {
   width: 524px;
   height: 524px;
-  background-image: url("/images/Screenshot2024-09-25224500.png");
+  background-image: url("main-photo.png");
   background-position: 50% 2.49%;
   margin: 0 auto;
 }
@@ -188,7 +188,7 @@
 
 .u-section-2 .u-image-1 {
   height: auto;
-  background-image: url("/images/IMG_0280.JPG");
+  background-image: url("photo-with-laptop.JPG");
   background-position: 50% 50%;
   margin: 54px 0 0;
 }
