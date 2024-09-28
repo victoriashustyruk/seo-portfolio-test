@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/vbbb.jpg");
+  background-image: url("background.jpg");
   background-position: 50% 50%;
 }
 
@@ -16,7 +16,7 @@
 .u-section-1 .u-image-1 {
   width: 455px;
   height: 455px;
-  background-image: url("/images/IMG_0282.JPG");
+  background-image: url("photo-standing-with-laptop.JPG");
   background-position: 50% 0%;
   margin: -39px 75px 0 auto;
 }
